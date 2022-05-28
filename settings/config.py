@@ -4,7 +4,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from emoji import emojize
 
 # токен выдается при регистрации приложения
-TOKEN = '5265303938:AAE1daGp-VJR0R15J9tHksR38hQlbCXMYdU'
+TOKEN = '5411541530:AAGdnSJtM9aeYxUeuBn6lUWML1n_8MqjdcQ'
 
 # Телеграм ID админов
 ADMIN_ID = '1978587604'
