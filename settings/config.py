@@ -5,12 +5,7 @@ from emoji import emojize
 
 # токен выдается при регистрации приложения
 TOKEN = '5265303938:AAE1daGp-VJR0R15J9tHksR38hQlbCXMYdU'
-# название БД
-NAME_DB = 'auto-bot.sqlite'
-# версия приложения
-VERSION = '0.0.1'
-# автор приложния
-AUTHOR = 'User'
+
 # Телеграм ID админов
 ADMIN_ID = '1978587604'
 
