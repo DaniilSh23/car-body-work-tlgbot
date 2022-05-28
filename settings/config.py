@@ -4,7 +4,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from emoji import emojize
 
 # токен выдается при регистрации приложения
-TOKEN = ''
+TOKEN = '5265303938:AAE1daGp-VJR0R15J9tHksR38hQlbCXMYdU'
 # название БД
 NAME_DB = 'auto-bot.sqlite'
 # версия приложения
